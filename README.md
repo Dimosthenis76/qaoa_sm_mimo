@@ -1,4 +1,3 @@
-# qaoa_sm_mimo
 # QAOA SM–MIMO Project
 
 This repository contains all the scripts and data needed to reproduce the experiments presented in our paper on fixed‑angle QAOA for Spatial Modulation MIMO detection. Follow the instructions below to set up the environment, run the simulations, and generate all figures and CSV data files.
